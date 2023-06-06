@@ -26,3 +26,7 @@
   width: 400px;
   height: 800px;
 }
+
+.hero__title__smaller {
+  font-size: 2em;
+}
