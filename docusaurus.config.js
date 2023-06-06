@@ -67,29 +67,21 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'Home',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
         },
         items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Tutorial',
-          },
-          {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/${organizationName}/${projectName}/',
-            label: 'GitHub',
-            position: 'right',
-          },
+          {to: '/docs/prices', label: 'Prices', position: 'left'},
+          {to: '/docs/news', label: 'News', position: 'left'},
+          {to: '/docs/village-clubs', label: 'Village Clubs', position: 'left'},
+          {to: '/docs/car-club', label: 'Car Club', position: 'left'},
+          
         ],
       },
       footer: {
         style: 'dark',
-    
         copyright: `Copyright © ${new Date().getFullYear()} Tilton on the Hill Village Hall. Built with Docusaurus.`,
       },
       prism: {
