@@ -27,6 +27,6 @@
   height: 800px;
 }
 
-.hero__title__smaller {
-  font-size: 2em;
+.intro-text {
+  padding: 2em !important;
 }

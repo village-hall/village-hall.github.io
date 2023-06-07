@@ -24,12 +24,23 @@ export default function Home(): JSX.Element {
     width: "100%",
     height: "800px",
   };
+  const introTextStyle = {
+    padding: "2em",
+  }
   return (
     <Layout
       title={`${siteConfig.title}`}
       description="Tilton on the Hill Village Hall">
       <HomepageHeader />
       <main>
+        <div style={introTextStyle}>
+          <p>
+            Our village hall is set in lovely Leicestershire countryside and is located in the heart of the village with the church, local pub and village shop only a few minutes walk away.<br/><br/>
+            Tilton on the Hill village hall is host to weekly events such as “Singing for Fun” and daily events like “Tiddlywinks pre-school” and we also are home to the Post Office outreach service twice a week and, whether you are a villager or event organiser, you are assured of a hearty welcome.<br/><br/>
+            With great road links to Leicester, Oakham, Melton Mowbray and Market Harborough you are never more than a 15 to 20 minute drive away.<br/><br/>
+            Tilton on the Hill village hall is available for hire to all and we can cater for events from birthday parties to weddings and everything in between. Please use the booking form below to start planning your event.
+          </p>
+        </div>
         <div className="hallmaster">
           <iframe src="https://v2.hallmaster.co.uk/Scheduler/View/11767?startRoom=19251&roomSelect=false" style={hallmasterStyle}></iframe>
         </div>
