@@ -4,6 +4,10 @@ sidebar_position: 2
 
 # News
 
+:::success Pay by Card
+Our online booking system now accepts card payments!
+:::
+
 :::success Car Club
 Tilton on the Hill Village Hall hosts the first all electric car club in the UK.
 Working closely with the Tilton Car Club, Tilton Green and Harborough District Council the Village Hall Committee has installed electric chargers for use by our customers, residents of the village and the car club itself.
