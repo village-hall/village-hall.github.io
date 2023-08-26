@@ -22,7 +22,7 @@ It officially launches on Saturday the 16th September 2023 and it would be lovel
 There are 3 types of Membership:
 
 * Driver Member to simply drive the cars
-* Need a Lift Member for less mobile residents who need lifts
+* [Need a Lift](need-a-lift) Member for less mobile residents who need lifts
 * Volunteer Driver Member to drive less mobile people in the community who need lifts **(Membership is FREE OF CHARGE when driving as a volunteer)** 
 
 ### Membership and Hire charges

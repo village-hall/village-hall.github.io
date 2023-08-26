@@ -4,7 +4,7 @@ title: Monthly Meetings
 
 To meet us, please come along to any of our friendly monthly meetings on the first Tuesday of each month at Tilton Village Hall:
 
-* 6.00pm-6.30pm Need a Lift Scheme meeting
+* 6.00pm-6.30pm [Need a Lift](need-a-lift) Scheme meeting
 * 6.30pm-7.00pm Volunteer Drivers meeting
 * 7.00pm-7.30pm Refreshments and opportunity to see inside the cars and learn about charging
 * 7.30pm-8.30pm Tilton Electric Car Club meeting
