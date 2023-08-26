@@ -72,7 +72,7 @@ const config = {
           {to: '/docs/prices', label: 'Prices', position: 'left'},
           {to: '/docs/news', label: 'News', position: 'left'},
           {to: '/docs/village-clubs', label: 'Village Clubs', position: 'left'},
-          {to: '/docs/car-club', label: 'Car Club', position: 'left'},
+          {to: '/docs/car-club', label: 'Electric Car Club', position: 'left'},
           
         ],
       },

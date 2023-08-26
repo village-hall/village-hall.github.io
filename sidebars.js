@@ -14,10 +14,21 @@
 /** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 const sidebars = {
   hallSidebar: [
-    'prices',
-    'news',
-    'village-clubs',
-    'car-club'
+    {type: 'doc', id: 'prices' },
+    {type: 'doc', id: 'news' },
+    {type: 'doc', id: 'village-clubs' },
+    {
+      type: 'category',
+      label: 'Tilton Electric Car Club',
+      collapsible: true,
+      collapsed: false,
+      items: [
+        'car-club/car-club',
+        'car-club/need-a-lift',
+        'car-club/monthly-meet',
+        'car-club/pet-policy'
+      ],
+    },
   ],
 };
 
