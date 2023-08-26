@@ -6,7 +6,7 @@ To meet us, please come along to any of our friendly monthly meetings on the fir
 
 * 6.00pm-6.30pm Need a Lift Scheme meeting
 * 6.30pm-7.00pm Volunteer Drivers meeting
-* 7.00pm-7.30pm refreshments and opportunity to see inside the cars and learn about charging
+* 7.00pm-7.30pm Refreshments and opportunity to see inside the cars and learn about charging
 * 7.30pm-8.30pm Tilton Electric Car Club meeting
 
 Tilton Electric Car Club and the Need a Lift Scheme are run by friendly local people for the benefit of people in Tilton and Halstead parish, so to find out more, ask us about…
