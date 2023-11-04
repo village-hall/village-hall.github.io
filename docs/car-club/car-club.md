@@ -8,7 +8,7 @@ title: Welcome
 Introducing Leicestershire's first all electric car club.
 
 The car club is the first of its kind in Leicestershire and has been developed by local people. It’s a car club run by the village for the benefit of residents of the Tilton and Halstead Parish. 
-It officially launches on Saturday the 16th September 2023 and it would be lovely to see you there.
+It officially launched on Saturday the 16th September 2023.
 
 ## The Tilton Electric Car Club offers great opportunities to:
 
