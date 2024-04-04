@@ -24,4 +24,4 @@ Tilton Electric Car Club and the Need a Lift Scheme are run by friendly local pe
 | Charging at Public Chargers and using Zap Map to find chargers                                              | Steve Durkin                          |
 | Pet Policy                                                                                                  | Rich Brown                            |
 | Electric Cars                                                                                               | James Stoate                          |
-| Tilton Electric Car Club Meetings                                                                           | Miriam Stoate                         |
+| Tilton Electric Car Club Meetings                                                                           |                          |
