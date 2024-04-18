@@ -71,7 +71,7 @@ const config = {
         items: [
           {to: '/docs/prices', label: 'Prices', position: 'left'},
           {to: '/docs/news', label: 'News', position: 'left'},
-          {to: '/docs/village-clubs', label: 'Village Clubs', position: 'left'},
+          {to: '/docs/sports-club', label: 'Sports Club', position: 'left'},
           {to: '/docs/car-club', label: 'Electric Car Club', position: 'left'},
           
         ],

@@ -16,7 +16,7 @@ const sidebars = {
   hallSidebar: [
     {type: 'doc', id: 'prices' },
     {type: 'doc', id: 'news' },
-    {type: 'doc', id: 'village-clubs' },
+    {type: 'doc', id: 'sports-club' },
     {
       type: 'category',
       label: 'Tilton Electric Car Club',
