@@ -2,8 +2,9 @@
 sidebar_position: 2
 ---
 
-# News
+# Tilton Telegram
 
-:::note Tilton Telegram
-Tilton magazine coming soon.
-:::
+The Tilton Telegram is the community magazine, freely available to residents of Tilton on the Hill and Halstead.
+You can find previous issues below:
+
+<a target="\_blank" href={require('/static/newsletter/issue-01.pdf').default}>Issue 1 - March/April 2024</a>

@@ -70,7 +70,7 @@ const config = {
         title: 'Home',
         items: [
           {to: '/docs/prices', label: 'Prices', position: 'left'},
-          {to: '/docs/news', label: 'News', position: 'left'},
+          {to: '/docs/news', label: 'Tilton Telegram', position: 'left'},
           {to: '/docs/sports-club', label: 'Sports Club', position: 'left'},
           {to: '/docs/car-club', label: 'Electric Car Club', position: 'left'},
           
