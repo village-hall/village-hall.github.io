@@ -9,3 +9,4 @@ You can find previous issues below:
 
 <a target="\_blank" href={require('/static/newsletter/issue-01.pdf').default}>Issue 1 - March/April 2024</a><br />
 <a target="\_blank" href={require('/static/newsletter/issue-02.pdf').default}>Issue 2 - May/June 2024</a>
+<a target="\_blank" href={require('/static/newsletter/issue-03.pdf').default}>Issue 3 - August/September 2024</a>
