@@ -45,10 +45,10 @@ There is no mileage charge.
 
 ## Join
 
-To become a member, register online: https://bookings.greenfoxcommunityenergy.coop 
+To become a member, register online: https://tiltonelectriccarclub.com/login
 
 To find out more
-Please email: tiltonelectriccarclub@gmail.com
+Please email: tiltonelectriccarclub@gmail.com   
 Phone: Simon 07766446132 
 
 ## A Big Thank You
