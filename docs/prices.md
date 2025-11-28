@@ -12,6 +12,7 @@ sidebar_position: 1
 
 For larger events or bookings over 4 hours, please contact Sian for a price:
 
+**Email:** sian.farmer3@gmail.com (preferred)  
 **Phone:** +44 7885 038633
 
 ## Terms and Conditions of Hire
