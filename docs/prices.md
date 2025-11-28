@@ -4,18 +4,15 @@ sidebar_position: 1
 
 # Prices
 
-The current prices for renting the village hall are available below:
+## Small Events
 
-|       Event Type       |    Price    | Villager Discount Price    | Additional Details                                          |
-|         :---:          |    :----:   |          :---:             |       :---:                                                 |
-| Standard Hourly Rate   | £15 p/h     | -                          |                                                             |
-| Village Club           | £12         | N/A                        |                                                             |
-| Children's Party       | £40         | £30                        |  Cost for 3 hours, setup/cleanup time not charged           |
-| Daytime Event          | £50         | £40                        |  Until 6pm                                                  |
-| Evening Event          | £70         | £60                        |  Venue closes at 11                                         |
-| Wedding                | £250        | N/A                        |  Additional charges for laundry, quote available            |
+**£15 per hour** (up to 4 hours) for small events.
 
+## Larger Events
 
+For larger events or bookings over 4 hours, please contact Sian for a price:
+
+**Phone:** +44 7885 038633
 
 ## Terms and Conditions of Hire
 
